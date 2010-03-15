@@ -1,0 +1,14 @@
+h1. Chatty a couple of ways to spam an irc channel
+
+p. it just stay idle until someone talks to her/him
+
+h2. ircHal
+
+p. this is a wrapper for halpy (http://code.google.com/p/halpy/) a MegaHal python implementation
+
+h2. ircECTOR
+
+p. this is a wrapper for pyECTOR (http://code.google.com/p/pyector/) an Ector implementation written in python
+
+p. Since i found that pickle, after some time of usage kills the conceptnetwork/phrase database I just patched both AI to use YAML to serialize the objects, so sources are included
+

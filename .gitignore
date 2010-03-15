@@ -1,0 +1,10 @@
+*.pbxuser
+*.perspectivev3
+*.perspective
+*.mode1
+*.mode1v3
+*~.nib
+
+*.pyc
+*.yml
+*.pkl
