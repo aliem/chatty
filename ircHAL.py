@@ -4,7 +4,7 @@ __date__      = "$Date$"
 __copyright__ = "Copyright (c) 2009 Lorenzo Giuliani"
 __license__   = "GPL"
 
-from hal import HAL
+from halpy.hal import HAL
 from IRCClient import *
 import os, sys, locale
 import yaml
